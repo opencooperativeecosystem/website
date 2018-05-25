@@ -139,24 +139,24 @@ const App = () => {
   return (
     <Container>
       <Title>open cooperative ecosystem</Title>
-      <Description>Use Atlassian's end-to-end design language to create straightforward and beautiful experiences. Use Atlassian's end-to-end design language to create straightforward and beautiful experiences.</Description>
+      <Description>We are developing software for transitioning to the next economy. <b>Not this economy</b>, <i>the next economy</i>. The next economy must be driven by human and ecological needs rather than profit. <br /> <i>And it will be networked.</i></Description>
       <Boxes>
         <Box>
           <Link href='https://docs.opencoopecosystem.net' target='blank'>
             <BoxTitle>📖 Documentation</BoxTitle>
-            <BoxDescription>Use Atlassian's end-to-end design language to create it.</BoxDescription>
+            <BoxDescription>Read more about our work, vision and organization.</BoxDescription>
           </Link>
         </Box>
         <Box>
           <Link href='https://agent.opencoopecosystem.net' target='blank'>
             <BoxTitle>🧙 Agent</BoxTitle>
-            <BoxDescription>Use Atlassian's end-to-end design language to create it.</BoxDescription>
+            <BoxDescription>A live instance of our economic dashboard used in FairCoop ecosystem. </BoxDescription>
           </Link>
         </Box>
         <Box>
           <Link href='https://kit.opencoopecosystem.net' target='blank'>
             <BoxTitle>📦 Components Kit</BoxTitle>
-            <BoxDescription>Use Atlassian's end-to-end design language to create it.</BoxDescription>
+            <BoxDescription>Foundation, components and patterns of OCE apps</BoxDescription>
           </Link>
         </Box>
       </Boxes>
